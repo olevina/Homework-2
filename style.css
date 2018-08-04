@@ -1,10 +1,10 @@
 body {
-background-color: #777;
-color: #777;
-font-family: Arial, Helvetica, sans-serif;
-font-size: 18px;
-width: 1024px;
-margin: 0 auto;
+    background-color: #777;
+    color: #777;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    width: 1024px;
+    margin: 0 auto;
 }
 
 .headercss {
@@ -22,7 +22,6 @@ margin: 0 auto;
     text-align: center;
     padding-top: 20px;
     padding-bottom: 20px;
-  
 }
 
 .articlecss {
@@ -35,6 +34,7 @@ margin: 0 auto;
     width: 495px;
     padding: 25px;
     margin: 25px;
+
 }
 
 .h1pcss {
@@ -42,7 +42,6 @@ margin: 0 auto;
     background-color: #ebebeb;
     padding: 10px;
     width: 0 auto;
-
 }
 
 aside {
